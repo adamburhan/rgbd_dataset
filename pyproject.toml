@@ -6,6 +6,7 @@ dependencies = [
     "torchvision",
     "open3d",
     "natsort",
+    "scipy",
     "opencv-python",
     "hydra-core",
     "numpy<=1.26.4",
