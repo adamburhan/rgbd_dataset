@@ -13,4 +13,4 @@ dependencies = [
 requires-python = ">=3.8"
 
 [tool.setuptools]
-py-modules = []
+packages = ["rgbd_dataset", "rgbd_dataset.datasets"]
